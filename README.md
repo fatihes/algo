@@ -1,2 +1,2 @@
 # algo
-Algorithmic Trading Strategies
+Algorithmic Trading Strategies written in Python.
